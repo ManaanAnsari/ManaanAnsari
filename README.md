@@ -78,6 +78,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ManaanAnsari/ManaanAnsari/output/snake.svg" alt="Snake animation" />
+<h1 align="left">Latest ventures:</h1>
+
+###
+
+<p align="left">- brangchain.com.au<br>- 1byx.io</p>
 
 ###
