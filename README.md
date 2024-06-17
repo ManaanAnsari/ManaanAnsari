@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm working as a Blockchain Developer.<br>- 📚 I'm currently learning Solidity for DeFi and audits.<br>- ⚡ In my free time, I code 👨🏽‍💻 or travel 🗺️.</p>
+<p align="left">- ⚡ In my free time, I code 👨🏽‍💻 or travel 🗺️.</p>
 
 ###
 
