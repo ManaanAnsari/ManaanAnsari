@@ -1,0 +1,23 @@
+# System & OS
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Configs
+.vscode/
+.idea/
+
+# Scripts & Malware Dropper Artifacts
+*.bat
+*.cmd
+*.sh
+*.ps1
+temp_*.bat
+branch_structure.json
+
+# Secrets & Environment
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.cert
